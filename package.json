@@ -52,6 +52,7 @@
     "viem": "^2.10.1",
     "wagmi": "^2.8.1",
     "web-vitals": "^2.1.4",
+    "web3": "^4.9.0",
     "yup": "^0.32.11",
     "zego-express-engine-webrtc": "^2.23.0"
   },
